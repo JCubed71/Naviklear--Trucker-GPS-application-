@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/FeedbackItem"
+        android:icon="@drawable/baseline_feedback_24"
+        android:title="Feedback" />
+    <item
+        android:id="@+id/FavoritesItem"
+        android:icon="@drawable/baseline_favorite_24"
+        android:title="Favorites" />
+    <item
+        android:id="@+id/ProfileItem"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profile" />
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856275790067",
+    "project_id": "navikleardb",
+    "storage_bucket": "navikleardb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856275790067:android:5ddd7ae15b9a550090af86",
+        "android_client_info": {
+          "package_name": "com.example.naviklear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856275790067-b8l71d5ia9gqq6jgenq8ts60tqtr05il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naviklear",
+            "certificate_hash": "1120f1c54fa8f1e498bb2ecfc13a1d87f97d04a0"
+          }
+        },
+        {
+          "client_id": "856275790067-7lck5js21qecq5e0gntn2i5uunii5e45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQF3r8cBmV0n-hLZQoPOOuQm9DcGkD8-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856275790067-7lck5js21qecq5e0gntn2i5uunii5e45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
